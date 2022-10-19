@@ -1,1 +1,2 @@
 print("Hello")
+sum = 0 
